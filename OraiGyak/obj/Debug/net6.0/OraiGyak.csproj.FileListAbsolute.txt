@@ -1,0 +1,15 @@
+/Users/pdwn/Programming/C#/c-sharp-prog/OraiGyak/bin/Debug/net6.0/OraiGyak
+/Users/pdwn/Programming/C#/c-sharp-prog/OraiGyak/bin/Debug/net6.0/OraiGyak.deps.json
+/Users/pdwn/Programming/C#/c-sharp-prog/OraiGyak/bin/Debug/net6.0/OraiGyak.runtimeconfig.json
+/Users/pdwn/Programming/C#/c-sharp-prog/OraiGyak/bin/Debug/net6.0/OraiGyak.dll
+/Users/pdwn/Programming/C#/c-sharp-prog/OraiGyak/bin/Debug/net6.0/OraiGyak.pdb
+/Users/pdwn/Programming/C#/c-sharp-prog/OraiGyak/obj/Debug/net6.0/OraiGyak.csproj.AssemblyReference.cache
+/Users/pdwn/Programming/C#/c-sharp-prog/OraiGyak/obj/Debug/net6.0/OraiGyak.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pdwn/Programming/C#/c-sharp-prog/OraiGyak/obj/Debug/net6.0/OraiGyak.AssemblyInfoInputs.cache
+/Users/pdwn/Programming/C#/c-sharp-prog/OraiGyak/obj/Debug/net6.0/OraiGyak.AssemblyInfo.cs
+/Users/pdwn/Programming/C#/c-sharp-prog/OraiGyak/obj/Debug/net6.0/OraiGyak.csproj.CoreCompileInputs.cache
+/Users/pdwn/Programming/C#/c-sharp-prog/OraiGyak/obj/Debug/net6.0/OraiGyak.dll
+/Users/pdwn/Programming/C#/c-sharp-prog/OraiGyak/obj/Debug/net6.0/refint/OraiGyak.dll
+/Users/pdwn/Programming/C#/c-sharp-prog/OraiGyak/obj/Debug/net6.0/OraiGyak.pdb
+/Users/pdwn/Programming/C#/c-sharp-prog/OraiGyak/obj/Debug/net6.0/OraiGyak.genruntimeconfig.cache
+/Users/pdwn/Programming/C#/c-sharp-prog/OraiGyak/obj/Debug/net6.0/ref/OraiGyak.dll
