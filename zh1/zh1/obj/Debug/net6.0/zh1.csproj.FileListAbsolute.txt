@@ -1,0 +1,15 @@
+/Users/pdwn/Programming/C#/c-sharp-prog/zh1/zh1/bin/Debug/net6.0/zh1
+/Users/pdwn/Programming/C#/c-sharp-prog/zh1/zh1/bin/Debug/net6.0/zh1.deps.json
+/Users/pdwn/Programming/C#/c-sharp-prog/zh1/zh1/bin/Debug/net6.0/zh1.runtimeconfig.json
+/Users/pdwn/Programming/C#/c-sharp-prog/zh1/zh1/bin/Debug/net6.0/zh1.dll
+/Users/pdwn/Programming/C#/c-sharp-prog/zh1/zh1/bin/Debug/net6.0/zh1.pdb
+/Users/pdwn/Programming/C#/c-sharp-prog/zh1/zh1/obj/Debug/net6.0/zh1.csproj.AssemblyReference.cache
+/Users/pdwn/Programming/C#/c-sharp-prog/zh1/zh1/obj/Debug/net6.0/zh1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pdwn/Programming/C#/c-sharp-prog/zh1/zh1/obj/Debug/net6.0/zh1.AssemblyInfoInputs.cache
+/Users/pdwn/Programming/C#/c-sharp-prog/zh1/zh1/obj/Debug/net6.0/zh1.AssemblyInfo.cs
+/Users/pdwn/Programming/C#/c-sharp-prog/zh1/zh1/obj/Debug/net6.0/zh1.csproj.CoreCompileInputs.cache
+/Users/pdwn/Programming/C#/c-sharp-prog/zh1/zh1/obj/Debug/net6.0/zh1.dll
+/Users/pdwn/Programming/C#/c-sharp-prog/zh1/zh1/obj/Debug/net6.0/refint/zh1.dll
+/Users/pdwn/Programming/C#/c-sharp-prog/zh1/zh1/obj/Debug/net6.0/zh1.pdb
+/Users/pdwn/Programming/C#/c-sharp-prog/zh1/zh1/obj/Debug/net6.0/zh1.genruntimeconfig.cache
+/Users/pdwn/Programming/C#/c-sharp-prog/zh1/zh1/obj/Debug/net6.0/ref/zh1.dll
