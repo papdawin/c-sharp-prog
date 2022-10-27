@@ -6,4 +6,5 @@
 - async/await
 - HTTP client
 - linq
-(De valami könnyű feladatott szeretnék)
+### 7.hét
+- binary/text mentési idő
