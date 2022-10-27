@@ -5,6 +5,7 @@ class Program
     public static void Main(string[] args)
     {
         //Elso.enumExcercise();
-        Masodik.linqExcercise();
+        //Masodik.linqExcercise();
+        Harmadik.saveTime();
     }
 }
