@@ -72,9 +72,9 @@ public class Harmadik
         Console.WriteLine("text read: "+clock.Elapsed.TotalMilliseconds);
         sr.Close();
 
-        cucc();
+        //cucc();
     }
-
+/*
     private static void cucc()
     {
         Random r = new Random();
@@ -185,7 +185,7 @@ public class Harmadik
                 }
             }
     }
-
+*/
     private static void randomizeSalaries()
     {
         var rnd = new Random();

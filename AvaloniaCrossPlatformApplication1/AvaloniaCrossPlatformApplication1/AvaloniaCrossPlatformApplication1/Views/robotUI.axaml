@@ -4,7 +4,10 @@
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
              mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
              x:Class="AvaloniaCrossPlatformApplication1.Views.robotUI">
-    <DockPanel x:Name="dockPanel">
+    <DockPanel>
         <Button Click="addUserClick">Add user</Button>
+        <StackPanel x:Name="stackPanel" Orientation="Vertical"></StackPanel>
+        <Button Click="playAgainst">Play</Button>
+        <StackPanel x:Name="resultPanel" Orientation="Vertical"></StackPanel>
     </DockPanel>
 </UserControl>

@@ -1,11 +1,13 @@
+using System.Data.SQLite;
 using DefaultNamespace;
 
-class Program
+partial class Program
 {
     public static void Main(string[] args)
     {
         //Elso.enumExcercise();
         //Masodik.linqExcercise();
-        Harmadik.saveTime();
+        //Harmadik.saveTime();
+        Negyedik.testDB();
     }
 }
