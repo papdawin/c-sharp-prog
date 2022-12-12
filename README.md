@@ -8,6 +8,8 @@
 - linq
 ### 7.hét
 - binary/text mentési idő
+### Beadandó
+Felhasználókat lekér az API-ból kockát dob és az eredményt eltárolja egy lokális mysql adatbázisba
 ### Summary
 Másolás a kurzushoz tartozó github repo, main branch, redme.md fájl tetejére
 - [x] automatikus szemétgyűjtő
@@ -16,4 +18,4 @@ Másolás a kurzushoz tartozó github repo, main branch, redme.md fájl tetejér
 - [x] fájlkezelés text, bin
 - [x] grafikus felület - random user és adatai
 - [x] adatbázis (mySQL)
-- [ ] beadandó
+- [x] beadandó
