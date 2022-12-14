@@ -10,7 +10,7 @@
 - binary/text mentési idő
 ### Beadandó
 Felhasználókat lekér az API-ból kockát dob és az eredményt eltárolja egy lokális mysql adatbázisba
-(AvaloniaCrossPlatformApplication1  mappában található)
+(Beadando  mappában található)
 ### Summary
 Másolás a kurzushoz tartozó github repo, main branch, redme.md fájl tetejére
 - [x] automatikus szemétgyűjtő

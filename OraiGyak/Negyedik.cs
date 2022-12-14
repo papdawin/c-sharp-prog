@@ -72,9 +72,8 @@ class Negyedik
     {
         DBConnect dbc = new();
         var res = dbc.Select();
-        foreach (var el in res) {
-            foreach (var elem in el) {  
+        foreach (var el in res)
+            foreach (var elem in el)
                 Console.WriteLine(elem);
-            
-        }
+    }
 }
